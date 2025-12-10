@@ -8,7 +8,7 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/pyla-thrisha/",
   github: "https://github.com/PylaThrisha",
   profileImage: "/trisha.jpg",
-  resumePath: "https://drive.google.com/file/d/1oILs2Lqhh0HBsXQ1eHiqGjQ2bOEGZCQa",
+  resumePath: "https://drive.google.com/file/d/1U2o5tp_xgUn0Ha-w1sjLoyNs9Doe03y_",
   summary: "An ambitious and detail-oriented computer science engineering student with a strong foundation in software development and AI technologies. Seeking opportunities to apply analytical and problem-solving skills in building scalable solutions while continuously learning and contributing to innovation-driven projects."
 };
 
